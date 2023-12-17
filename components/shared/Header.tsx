@@ -35,7 +35,6 @@ const Header = () => {
               <Link href="/sign-in">Login</Link>
             </Button>
           </SignedOut>
-          S
         </div>
       </div>
     </header>
